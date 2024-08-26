@@ -18,3 +18,9 @@ The purpose of this repository is to provide a centralized location for enthusia
 ## Contributing
 
 Contributions are welcome! If you have additional images or resources related to Jagadguru Kripalu Maharaj that you would like to share, please feel free to submit a pull request.
+
+## Accessing PDF Bundles
+
+For a comprehensive view, the images in this repository are also bundled into organized PDF files. You can find the complete PDF collections in the corresponding repository [here](https://github.com/kishoriji/kripalu_maharaj_images_scrapbook/).
+
+This PDF repository provides a convenient way to view and download the images in a bundled format.
