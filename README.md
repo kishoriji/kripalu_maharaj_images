@@ -2,6 +2,8 @@
 
 Welcome to the repository of images featuring Jagadguru Kripalu Maharaj, a revered spiritual leader and philosopher. This collection aims to preserve and share the visual legacy of Maharaj's teachings and presence.
 
+![Jagadguru Kripalu Maharaj](cover.png)
+
 ## Repository Contents
 
 This repository contains a diverse set of images related to Jagadguru Kripalu Maharaj, including:
